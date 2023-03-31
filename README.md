@@ -1,20 +1,14 @@
-### Hi there 👋
+### Hi there. I'm Tiago Assuncao👋
 
-<!--
-**TiagoAssuncao/tiagoassuncao** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+- 🔭 I’m currently working on Avenue Code
+- 🌱 I’m currently working with Python
+- 💬 Ask me about Python and Django
+- 📫 How to reach me: tiagoribeirodeassuncao@gmail.com
+- 😄 Pronouns: he/him
+- ⚡ Fun fact: I'm almost two meters tall haha
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=tiagoassuncao&theme=merko&hide_border=true&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=tiagoassuncao&theme=merko&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=tiagoassuncao&theme=merko&hide_border=true&include_all_commits=true&count_private=true)
+![](https://github-readme-streak-stats.herokuapp.com/?user=tiagoassuncao&theme=merko&hide_border=true&count_private=true&include_all_commits=true)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=tiagoassuncao&theme=merko&hide_border=true&include_all_commits=true&count_private=true&hide=tex,javascript,css,matlab,php,html)
